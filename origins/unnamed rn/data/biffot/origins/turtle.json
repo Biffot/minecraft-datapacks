@@ -1,0 +1,18 @@
+{
+        "powers": [
+            "origins:vegetarian",
+            "origins:water_breathing",
+            "origins:aqua_affinity",
+            "origins:water_vision",
+            "origins:natural_armor",
+            "origins:strong_arms",
+            "biffot:water_legs",
+            "biffot:shielded",
+            "biffot:water_dash"
+        ],
+        "icon": "minecraft:turtle_egg",
+        "order": 12,
+        "impact": 2,
+        "name": "Turtle",
+        "description": "I like turtles"
+}
